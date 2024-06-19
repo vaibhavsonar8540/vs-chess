@@ -1,0 +1,46 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-color: whitesmoke;
+}
+.main
+{
+    height: 720px;
+    width: 720px;
+    background-color: antiquewhite;
+    margin: auto;
+}
+.firstrow
+{
+    height: 90px;
+    width: 100%;
+    background-color: brown;
+}
+.firstrow img
+{
+    height: 100%;
+    width: 100%;
+}
+.white
+{
+    height: 90px;
+    width: 90px;
+    background-color: wheat;
+    float: left;
+}
+.black
+{
+    height: 90px;
+    width: 90px;
+    background-color:rgb(169, 62, 62);
+    float: left;
+}
+.secondrow img
+{
+    height: 100%;
+    width: 100%;
+}
